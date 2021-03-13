@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "family=Open+Sans&family=Courier+Prime&family=Poppins:wght@400;700"
+
+# Font families
+heading_font = "Poppins"
+body_font = "Open Sans"
+nav_font = "Poppins"
+mono_font = "Courier Prime"

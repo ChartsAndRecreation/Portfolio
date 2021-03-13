@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Data enthusiast
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -12,16 +11,16 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+email: "kaleb.c.king@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Mining
+- Data Visualization
+- Machine Learning
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Construction Forms Inc
+  url: https://conforms.com/
+role: Business Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,18 +30,15 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/KalebSomebody
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ChartsAndRecreation
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kaleb-king-b09578138/
 superuser: true
-title: Nelson Bighetti
+title: Kaleb King
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
