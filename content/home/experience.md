@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: January 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Business Analyst
+    company: Construction Forms
+    company_url: 'https://conforms.com/'
+    location: Port Washington, WI
+    date_start: '2019-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Build customized reports in Excel, SQL, and R. I have focused on report automation to enable more informed decisions while reducing time spent gathering and processing data.
+    
+  - title: Accounts Receivable Specialist
+    company: Construction Forms
+    company_url: 'https://conforms.com/'
+    location: Port Washington, WI
+    date_start: '2016-04-01'
+    date_end: '2019-04-01'
+    description: Collect and process customer payments. Streamlined invoicing which reduced processing time by 50% and improved accuracy.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Accounting Coordinator
+    company: Foley & Lardner
+    company_url: 'https://www.foley.com/'
+    location: Milwaukee, WI
+    date_start: '2013-10-01'
+    date_end: '2016-04-01'
+    description: Build customized reports in Excel, prepare and file property tax returns, develop budgets, and perform monthly reconciliations.
 ---

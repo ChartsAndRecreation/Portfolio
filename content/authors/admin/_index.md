@@ -17,14 +17,11 @@ interests:
 - Data Mining
 - Data Visualization
 - Report Automation
-organizations:
-- name: Construction Forms Inc
-  url: https://conforms.com/
-role: Business Analyst
+role: Data Enthusiast
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:kaleb.c.king@gmail.com
 - display:
     header: true
 - icon: linkedin
@@ -35,7 +32,7 @@ social:
   link: https://github.com/ChartsAndRecreation
 - icon: facebook
   icon_pack: fab
-  link: https://twitter.com/KalebSomebody
+  link: https://www.facebook.com/kaleb.c.king
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KalebSomebody
@@ -49,8 +46,8 @@ superuser: true
 title: Kaleb King
 ---
 
-I'm a business analyst for Construction Forms; an industry leader in the engineering and manufacture of concrete pumping equipment and other abrasion resistant pipe. I have over a decade of experience in accounting with an emphasis on accounts receivable and sales tax.
+I'm a business analyst for Construction Forms; an industry leader in the engineering and manufacture of concrete pumping equipment and abrasion resistant pipe. I have over a decade of experience in accounting with an emphasis on accounts receivable and sales tax.
 
-Over the past few years, I have discovered my passion for data and I'm currently enrolled in the [University of Wisconsin Master of Science in Data Science](https://datasciencedegree.wisconsin.edu/) program. My journey in data science started in an effort to avoid the eternal shame of finishing last place in my fantasy football league. While I enjoyed a modest improvement the following year, moving from 9th place to 5th place, I found myself wondering how I could apply these tools to other aspects of my professional and personal life. Since then I've written countless SQL queries, dashboards, and markdown documents.
+My journey in data science started a few years ago in an effort to avoid the eternal shame of finishing last place in my fantasy football league. While I enjoyed a modest improvement the following year, moving from 9th place to 5th, I found myself wondering how I could apply this to other areas. My passion has continued to grow as I read about how others are creating tools to answer questions and solve problems. It's been personally and professionally rewarding to apply this knowledge and I'm excited to see what's next.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
