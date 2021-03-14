@@ -7,10 +7,22 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
+
+design:
+  columns: "1"
+  background:
+    image: circuit-board-1.jpg
+    image_darken: 0.5
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
