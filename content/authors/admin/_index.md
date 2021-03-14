@@ -2,21 +2,21 @@
 bio: Data enthusiast
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Data Science
+    institution: University of Wisconsin
+    year: 2024
+  - course: BA in Accounting
+    institution: Lakeland University
+    year: 2015
+  - course: AAS in Accounting
+    institution: Mid-State Technical College
+    year: 2007
 email: "kaleb.c.king@gmail.com"
 highlight_name: false
 interests:
 - Data Mining
 - Data Visualization
-- Machine Learning
+- Report Automation
 organizations:
 - name: Construction Forms Inc
   url: https://conforms.com/
@@ -27,7 +27,7 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/KalebSomebody
@@ -41,8 +41,8 @@ superuser: true
 title: Kaleb King
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a business analyst for Construction Forms; an industry leader in the engineering and manufacture of concrete pumping equipment and other abrasion resistant pipe. I have over a decade of experience in accounting with an emphasis on accounts receivable and sales tax.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Over the past few years, I have discovered my passion for data and I'm currently enrolled in the [University of Wisconsin Master of Science in Data Science](https://datasciencedegree.wisconsin.edu/) program. My journey in data science started in an effort to avoid the eternal shame of finishing last place in my fantasy football league. While I enjoyed a modest improvement the following year, moving from 9th place to 5th place, I found myself wondering how I could apply these tools to other aspects of my professional and personal life. Since then I've written countless SQL queries, dashboards, and markdown documents.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
