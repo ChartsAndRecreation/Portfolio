@@ -27,16 +27,24 @@ social:
   link: /#contact
 - display:
     header: true
-- icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/KalebSomebody
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ChartsAndRecreation
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kaleb-king-b09578138/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ChartsAndRecreation
+- icon: facebook
+  icon_pack: fab
+  link: https://twitter.com/KalebSomebody
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/KalebSomebody
+- icon: reddit
+  icon_pack: fab
+  link: https://www.reddit.com/user/Kaleb_King
+- icon: steam
+  icon_pack: fab
+  link: https://steamcommunity.com/id/kcking1987/
 superuser: true
 title: Kaleb King
 ---
