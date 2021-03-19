@@ -10,6 +10,7 @@
     </div>
   {{ end }}
 
+<!--
   {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
     {{ with site.GetPage "privacy.md" }}
@@ -28,8 +29,11 @@
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
+-->
 
   <p class="powered-by">
+    Built with <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a>, and <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>. Fueled by &#9749.
+    <!--
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
@@ -44,5 +48,6 @@
       {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
       {{ $i18n_published_with | markdownify | emojify }}
     {{ end }}
+    -->
   </p>
 </footer>
