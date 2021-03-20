@@ -2,7 +2,7 @@
 widget: about
 active: true
 headless: true
-weight: 30
+weight: 40
 title: About Me
 design:
   columns: "1"
