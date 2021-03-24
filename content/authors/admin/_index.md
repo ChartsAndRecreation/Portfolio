@@ -1,5 +1,5 @@
 ---
-bio: Data enthusiast
+bio:
 education:
   courses:
   - course: MS in Data Science
