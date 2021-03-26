@@ -10,6 +10,7 @@ title: Import a CSV File to SQL Server with Python
 tags:
 - Python
 - SQL
+commentable: true
 ---
 
 I get asked periodically to import data from a spreadsheet into SQL Server. This is a good option for archiving data you've accumulated over time that may not be used on a daily basis, but comes in handy for that quarterly report. It also reduces the likelihood of the data getting deleted or misplaced when someone new takes over.
@@ -18,7 +19,7 @@ In this guide, I'll show how to take a csv file and import it into SQL Server us
 
 # Step 1: The CSV File
 
-Let's start with the CSV file we want to import. In the spirit of March Madness, my table consists the teams form the Big Ten conference:
+Let's start with the CSV file we want to import. In the spirit of March Madness, my table consists the teams from the Big Ten conference:
 
 | School     | Region   | Seed |
 | ---------- | -------- | ---: |
@@ -41,7 +42,7 @@ Next, we're going to import the CSV file into data frame in Python using the `pa
 import pandas as pd
 import pyodbc
 data = pd.read_csv(r'C:\Users\king\Desktop\BigTen.csv')   
-df = pd.DataFrame(data, columns= ['School','Region','Seed'])
+df = pd.DataFrame(data, columns= ['School', 'Region', 'Seed'])
 ```
 
 # Step 3: Connect to the SQL Server
