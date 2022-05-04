@@ -25,8 +25,8 @@ feature:
 - icon: chart-bar
   icon_pack: fas
   name: Visualizations
-- icon: database
-  icon_pack: fas
+- icon: "sql"
+  icon_pack: custom
   name: SQL
 - icon: python
   icon_pack: fab
