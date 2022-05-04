@@ -34,6 +34,18 @@ feature:
 - icon: raspberry-pi
   icon_pack: fab
   name: Raspberry Pi
+- icon: aws
+  icon_pack: fab
+  name: Amazon Web Services
+- icon: salesforce
+  icon_pack: fab
+  name: Salesforce
+- icon: "tableau"
+  icon_pack: custom
+  name: Tableau
+- icon: "snowflake"
+  icon_pack: custom
+  name: Snowflake
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
