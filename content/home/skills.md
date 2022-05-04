@@ -38,7 +38,7 @@ feature:
   icon_pack: custom
   name: Tableau
 
-# Uncomment to use emoji icons.
+# Uncomment to use emoji icons. 
 #- icon = ":smile:"
 #  icon_pack = "emoji"
 #  name = "Emojiness"
