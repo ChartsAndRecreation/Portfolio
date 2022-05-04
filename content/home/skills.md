@@ -16,36 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "excel"
-  icon_pack: custom
-  name: Excel
-- icon: r-project
-  icon_pack: fab
-  name: R
-- icon: chart-bar
-  icon_pack: fas
-  name: Visualizations
-- icon: "sql"
-  icon_pack: custom
-  name: SQL
-- icon: python
-  icon_pack: fab
-  name: Python
-- icon: raspberry-pi
-  icon_pack: fab
-  name: Raspberry Pi
 - icon: aws
   icon_pack: fab
   name: Amazon Web Services
+- icon: python
+  icon_pack: fab
+  name: Python
+- icon: r-project
+  icon_pack: fab
+  name: R
 - icon: salesforce
   icon_pack: fab
   name: Salesforce
-- icon: "tableau"
-  icon_pack: custom
-  name: Tableau
 - icon: "snowflake"
   icon_pack: custom
   name: Snowflake
+- icon: "sql"
+  icon_pack: custom
+  name: SQL
+- icon: "tableau"
+  icon_pack: custom
+  name: Tableau
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
