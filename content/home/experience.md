@@ -40,7 +40,9 @@ experience:
     location: Port Washington, WI
     date_start: '2019-04-01'
     date_end: ''
-    description: Build customized reports in Excel, SQL, and R. I have focused on report automation to enable more informed decisions while reducing time spent gathering and processing data.
+    description: Design and implement data architecture to support report automation
+and sync data between systems. Create automated reports for
+stakeholders at all levels of the company.
     
   - title: Accounts Receivable Specialist
     company: Construction Forms
